@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin-theme",
+  "displayName": "Catppuccin Theme",
+  "description": "A Soothing pastel theme for Aseprite by Sofy",
+  "version": "1.0",
+  "author": { "name": "SofyDev", "email": "", "url": "" },
+  "contributors": [
+  ],
+  "publisher": "Sofy",
+  "license": "MIT license",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Catppuccin Theme", "path": "." }
+    ]
+  }
+}
