@@ -7,11 +7,11 @@
 
 <p align="center">
 	<a href="https://github.com/sofyXI/asesprite/stargazers">
-		<img alt="Stargazers" src="https://img.shields.io/github/stars/catppuccin/asesprite?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/sofyXI/asesprite?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
 	<a href="https://github.com/sofyXI/asesprite/releases/latest">
-		<img alt="Releases" src="https://img.shields.io/github/release/catppuccin/asesprite.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
+		<img alt="Releases" src="https://img.shields.io/github/release/sofyXI/asesprite.svg?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41"/></a>
 	<a href="https://github.com/sofyXI/asesprite/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/catppuccin/asesprite?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+		<img alt="Issues" src="https://img.shields.io/github/issues/sofyXI/asesprite?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 
 <p align="center">
