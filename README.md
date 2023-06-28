@@ -6,50 +6,52 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/sofycat/asesprite/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/sofycat/asesprite/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/sofycat/asesprite/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/sofyXI/asesprite/stargazers"><img src="https://img.shields.io/github/stars/sofyXI/asesprite?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/sofyXI/asesprite/issues"><img src="https://img.shields.io/github/issues/sofyXI/asesprite?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/sofyXI/asesprite/contributors"><img src="https://img.shields.io/github/contributors/sofyXI/asesprite?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://github.com/sofycat/asesprite/blob/main/Images/MochaPreview.png"/>
+	<img src="https://github.com/sofyXI/asesprite/blob/main/Images/MochaPreview.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+WIP
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+WIP
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+WIP
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src="https://github.com/sofyXI/asesprite/blob/main/Images/MochaPreview.png"/>
 </details>
 
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+2. Open Asesprite
+3. File > Prefrences > Themes > Open Folder
+4. Drag local repo into the themes folder then reload asesprite
+5. Should now be selectable in the themes window
 
 <!-- this section is optional -->
 ## 🙋 FAQ
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+-	Q: **_"When will the other pallete themes be finished"_**\
+	A: honestly I have no idea :p
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Sofy](https://github.com/sofyXI)
+- [Cql](https://github.com/Cequallium)
 
 &nbsp;
 
