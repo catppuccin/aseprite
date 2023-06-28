@@ -1,7 +1,0 @@
-#!/bin/bash
-echo "building palettes..."
-lua catppuccin/palettes/gen.lua
-echo "compressing..."
-cd catppuccin
-zip -FSr ../catppuccin.aseprite-extension *
-echo "done! :3"
