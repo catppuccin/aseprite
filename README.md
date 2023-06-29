@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/sofyXI/asesprite/blob/main/Images/MochaPreview.png"/>
+	<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MochaPreview.png"/>
 </p>
 
 ## Previews
@@ -31,16 +31,15 @@ WIP
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/sofyXI/asesprite/blob/main/Images/MochaPreview.png"/>
+<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MochaPreview.png"/>
 </details>
 
 ## Usage
 
-1. Clone this repository locally
+1. Download latest release in the releases tab
 2. Open Asesprite
-3. File > Prefrences > Themes > Open Folder
-4. Drag local repo into the themes folder then reload asesprite
-5. Should now be selectable in the themes window
+3. Double click on the newly downloaded extension
+4. Should now be selectable in the themes window
 
 <!-- this section is optional -->
 ## 🙋 FAQ
