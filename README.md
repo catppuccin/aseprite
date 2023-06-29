@@ -50,6 +50,7 @@ WIP
 ## 💝 Thanks to
 
 - [Sofy](https://github.com/sofyXI)
+- [Sharkked](https://github.com/sharkked).
 - [Cql](https://github.com/Cequallium)
 
 &nbsp;
