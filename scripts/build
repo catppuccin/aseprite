@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "compressing..."
-cd catppuccin
-zip -FSr ../catppuccin.aseprite-extension *
-echo "done! :3"

@@ -50,8 +50,9 @@ WIP
 ## 💝 Thanks to
 
 - [Sofy](https://github.com/sofyXI)
-- [Sharkked](https://github.com/sharkked).
-- [Cql](https://github.com/Cequallium)
+- [Sharkked](https://github.com/sharkked)
+- [Banana](https://github.com/BANanaD3V)
+- [Cequal](https://github.com/Cequallium)
 
 &nbsp;
 
