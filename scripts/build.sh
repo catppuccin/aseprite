@@ -31,7 +31,7 @@ echo ""
 
 echo Building...
 cp ./base/others/* ./.dist
-sed -f ./scripts/Pallets/$FLAVOURNAME.sed ./base/theme.xml > ./.disy/theme.xml
+sed -f ./scripts/Pallets/$FLAVOURNAME.sed ./base/theme.xml > ./.dist/theme.xml
 cp ./base/sheet/sheet_$FLAVOURNAME.png ./.dist/sheet.png
 
 echo "compressing..."
