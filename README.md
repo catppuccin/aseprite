@@ -44,14 +44,15 @@ WIP
 <!-- this section is optional -->
 ## 🙋 FAQ
 
--	Q: **_"When will the other pallete themes be finished"_**\
+-	Q: **_"When will the other palette themes be finished"_**\
 	A: honestly I have no idea :p
 
 ## 💝 Thanks to
 
 - [Sofy](https://github.com/sofyXI)
-- [Sharkked](https://github.com/sharkked).
-- [Cql](https://github.com/Cequallium)
+- [Sharkked](https://github.com/sharkked)
+- [Banana](https://github.com/BANanaD3V)
+- [Cequal](https://github.com/Cequallium)
 
 &nbsp;
 

@@ -26,141 +26,141 @@
         <dim id="color_selector_bar_size" value="8" />
     </dimensions>
     <colors>
-        <color id="text" value="#eba0ac" />
+        <color id="text" value="$maroon" />
         <!-- X | Color of the general text -->
-        <color id="disabled" value="#cdd6f4" />
+        <color id="disabled" value="$text" />
         <!-- X | Color for disabled menus and Secondary color used for example on the home tab, on file path text -->
-        <color id="face" value="#1e1e2e" />
+        <color id="face" value="$base" />
         <!-- X | Color that appears on the shading bar text when no color has been selected -->
-        <color id="hot_face" value="#f38ba8" />
+        <color id="hot_face" value="$red" />
         <!-- X | Color that appear on the background of the warning_box when the hovered -->
-        <color id="selected" value="#cba6f7" />
+        <color id="selected" value="$mauve" />
         <!-- X | Color that appears on background the selected of text -->
-        <color id="selected_text" value="#FFFFFF" />
+        <color id="selected_text" value="$text" />
         <!-- X | Color of the selected of text -->
-        <color id="separator_label" value="#f38ba8" />
+        <color id="separator_label" value="$red" />
         <!-- X | Color of the text that is on the same line as the separator -->
-        <color id="background" value="#1e1e2e" />
+        <color id="background" value="$base" />
         <!-- X | Color of inside background on windows on the home tab and used as the shadow color for disabled menu's text -->
-        <color id="textbox_text" value="#FFFFFF" />
+        <color id="textbox_text" value="$text" />
         <!-- X | Color of the text that appears on the tooltip -->
-        <color id="textbox_face" value="#1e1e2e" />
+        <color id="textbox_face" value="$base" />
         <!-- X | Hardcoded? Used on the console window  -->
         <color id="textbox_code_face" value="#eeeeee" />
         <!-- Unused -->
-        <color id="entry_suffix" value="#FFFFFF" />
+        <color id="entry_suffix" value="$text" />
         <!-- X | Color of the suffix text when you create a new project aka the 'px' part -->
         <color id="link_text" value="#fdfdfd" />
         <!-- X | Color of the link text, not the home link -->
-        <color id="link_hover" value="#f38ba8" />
+        <color id="link_hover" value="$red" />
         <!-- X | Color of the link text when hovered, 			used in recent_file_pin -->
-        <color id="button_normal_text" value="#FFFFFF" />
+        <color id="button_normal_text" value="$text" />
         <!-- X | Color of text on buttons, yes even including the preview and small windows buttons-->
-        <color id="button_hot_text" value="#FFFFFF" />
+        <color id="button_hot_text" value="$text" />
         <!-- X | Color of text on buttons when hovering them, yes even including the preview and small windows buttons-->
-        <color id="button_selected_text" value="#FFFFFF" />
+        <color id="button_selected_text" value="$text" />
         <!-- X | Color of text on buttons when clicked them, yes even including the preview and small windows buttons-->
-        <color id="check_hot_face" value="#6c7086" />
+        <color id="check_hot_face" value="$overlay3" />
         <!-- X | Color of the checkbox background when hovered-->
-        <color id="check_focus_face" value="#313244" />
+        <color id="check_focus_face" value="$surface0" />
         <!-- X | Color of the checkbox background when selected aka after being clicked-->
-        <color id="radio_hot_face" value="#f38ba8" />
+        <color id="radio_hot_face" value="$red" />
         <!-- X | Color of the radio/option box background when hovered-->
-        <color id="radio_focus_face" value="#313244" />
+        <color id="radio_focus_face" value="$surface0" />
         <!-- X | Color of the radio/option box background when selected aka after being clicked-->
-        <color id="menuitem_normal_text" value="#FFFFFF" />
+        <color id="menuitem_normal_text" value="$text" />
         <!-- X | Color of the menu text and arrows -->
-        <color id="menuitem_normal_face" value="#313244" />
+        <color id="menuitem_normal_face" value="$surface0" />
         <!-- X | Color of the menu and arrows background -->
-        <color id="menuitem_hot_text" value="#FFFFFF" />
+        <color id="menuitem_hot_text" value="$text" />
         <!-- X | Color of the menu text and arrows when hovered -->
-        <color id="menuitem_hot_face" value="#6c7086" />
+        <color id="menuitem_hot_face" value="$overlay3" />
         <!-- X | Color of the menu and arrows background when hovered -->
-        <color id="menuitem_highlight_text" value="#FFFFFF" />
+        <color id="menuitem_highlight_text" value="$text" />
         <!-- X | Color of the menu text and arrows when clicked -->
-        <color id="menuitem_highlight_face" value="#6c7086" />
+        <color id="menuitem_highlight_face" value="$overlay3" />
         <!-- X | Color of the menu and arrows background when clicked -->
-        <color id="window_face" value="#313244" />
+        <color id="window_face" value="$surface0" />
         <!-- X | Color of the general background and used behind separator -->
-        <color id="window_titlebar_text" value="#ffffff" />
+        <color id="window_titlebar_text" value="$text" />
         <!-- X | Color of the upper left text of the window, aka window title -->
-        <color id="window_titlebar_face" value="#6c7086" />
+        <color id="window_titlebar_face" value="$overlay3" />
         <!-- X |  Color of the upper left text background of the window, aka window title background -->
-        <color id="editor_face" value="#1e1e2e" />
+        <color id="editor_face" value="$base" />
         <!-- X | Color of the editor background, used on the colorbar background, preview window background and shading bar background -->
         <color id="editor_sprite_border" value="#000000" />
         <!-- X | Color of the canvas border -->
         <color id="editor_sprite_bottom_border" value="#000000" />
         <!-- X | Color of the canvas shadow  -->
-        <color id="editor_view_face" value="#1e1e2e" />
+        <color id="editor_view_face" value="$base" />
         <!-- X | Color of the editor's bottom left scroll corner -->
-        <color id="listitem_normal_text" value="#FFFFFF" />
+        <color id="listitem_normal_text" value="$text" />
         <!-- X | Color of the listitem text  -->
-        <color id="listitem_normal_face" value="#1e1e2e" />
+        <color id="listitem_normal_face" value="$base" />
         <!-- X | Color of the listitem text background  -->
-        <color id="listitem_selected_text" value="#FFFFFF" />
+        <color id="listitem_selected_text" value="$text" />
         <!-- X | Color of the listitem selected item text, 			used in recent_file_detail and news_detail  -->
-        <color id="listitem_selected_face" value="#6c7086" />
+        <color id="listitem_selected_face" value="$overlay3" />
         <!-- X | Color of the listitem selected item text background  -->
-        <color id="slider_empty_text" value="#6c7086" />
+        <color id="slider_empty_text" value="$overlay3" />
         <!-- X | Color of the text inside the slider when the slider bar is not over the text  -->
-        <color id="slider_full_text" value="#FFFFFF" />
+        <color id="slider_full_text" value="$text" />
         <!-- X | Color of the text inside the slider when the slider bar is over the text  -->
-        <color id="tab_normal_text" value="#FFFFFF" />
+        <color id="tab_normal_text" value="$text" />
         <!-- X | Color of the tab text -->
-        <color id="tab_active_text" value="#FFFFFF" />
+        <color id="tab_active_text" value="$text" />
         <!-- X | Color of the active tab text -->
-        <color id="tab_active_face" value="#313244" />
+        <color id="tab_active_face" value="$surface0" />
         <!-- X | Part of the main editor Color, workspace component  -->
         <color id="popup_window_border" value="#000000" />
         <!-- Unused  -->
-        <color id="tooltip_text" value="#FFFFFF" />
+        <color id="tooltip_text" value="$text" />
         <!-- I thought textbox_text was this, so I don't know what this does -->
-        <color id="tooltip_face" value="#6c7086" />
+        <color id="tooltip_face" value="$overlay3" />
         <!-- X | Color of the tooltip background -->
-        <color id="filelist_even_row_text" value="#FFFFFF" />
+        <color id="filelist_even_row_text" value="$text" />
         <!-- X | Color of the even row text -->
-        <color id="filelist_even_row_face" value="#1e1e2e" />
+        <color id="filelist_even_row_face" value="$base" />
         <!-- X | Color of the even row text background  -->
-        <color id="filelist_odd_row_text" value="#FFFFFF" />
+        <color id="filelist_odd_row_text" value="$text" />
         <!-- X | Color of the odd row text -->
-        <color id="filelist_odd_row_face" value="#1e1e2e" />
+        <color id="filelist_odd_row_face" value="$base" />
         <!-- X | Color of the odd row text background  -->
-        <color id="filelist_selected_row_text" value="#FFFFFF" />
+        <color id="filelist_selected_row_text" value="$text" />
         <!-- X | Color of the selected row text -->
-        <color id="filelist_selected_row_face" value="#6c7086" />
+        <color id="filelist_selected_row_face" value="$overlay3" />
         <!-- X | Color of the selected row text background -->
         <color id="filelist_disabled_row_text" value="#ffc8c8" />
         <!-- Unused -->
-        <color id="workspace" value="#313244" />
+        <color id="workspace" value="$surface0" />
         <!-- X | Main color of the workspace -->
-        <color id="workspace_text" value="#bac2de" />
+        <color id="workspace_text" value="$subtext1" />
         <!-- X | Color of the workspace text -->
         <color id="workspace_link" value="#fdfdfd" />
         <!-- X | Color of the workspace link text -->
-        <color id="workspace_link_hover" value="#eba0ac" />
+        <color id="workspace_link_hover" value="$maroon" />
         <!-- X | Color of the workspace link text when hovered -->
         <color id="timeline_normal" value="#c6c6c6" />
         <!-- Don't know what this does -->
-        <color id="timeline_normal_text" value="#FFFFFF" />
+        <color id="timeline_normal_text" value="$text" />
         <!-- X | Color of the timeline text -->
         <color id="timeline_hover" value="#d9d9d9" />
         <!-- Don't know what this does  -->
-        <color id="timeline_hover_text" value="#FFFFFF" />
+        <color id="timeline_hover_text" value="$text" />
         <!-- X | Color of the timeline text when hovered  -->
         <color id="timeline_active" value="#7d929e" />
         <!-- Don't know what this does  -->
-        <color id="timeline_active_text" value="#FFFFFF" />
+        <color id="timeline_active_text" value="$text" />
         <!-- X | Color of the active timeline text  -->
         <color id="timeline_active_hover" value="#99b3c2" />
         <!-- Don't know what this does  -->
-        <color id="timeline_active_hover_text" value="#FFFFFF" />
+        <color id="timeline_active_hover_text" value="$text" />
         <!-- X | Color of the active timeline text when hovered -->
         <color id="timeline_clicked" value="#536069" />
         <!-- Don't know what this does  -->
-        <color id="timeline_clicked_text" value="#FFFFFF" />
+        <color id="timeline_clicked_text" value="$text" />
         <!-- X | Color of the clicked timeline text, also used on the line below the text for background layers  -->
-        <color id="timeline_focused_text" value="#ffffff" />
+        <color id="timeline_focused_text" value="$text" />
         <!-- Don't know what this does  -->
         <color id="timeline_padding" value="#7d929e" />
         <!-- Don't know what this does  -->
@@ -168,15 +168,15 @@
         <!-- Don't know what this does  -->
         <color id="timeline_band_bg" value="#76858e" />
         <!-- Don't know what this does  -->
-        <color id="status_bar_text" value="#f38ba8" />
+        <color id="status_bar_text" value="$red" />
         <!-- X | Color of the bottom left text, use The purple here  -->
-        <color id="status_bar_face" value="#313244" />
+        <color id="status_bar_face" value="$surface0" />
         <!-- X | Color of the bottom left text background, use the same as the Workspace/tab_active_face -->
-        <color id="flag_normal" value="#313244" />
+        <color id="flag_normal" value="$surface0" />
         <!-- X | Color of the flag background on boot -->
         <color id="flag_active" value="#FF0000" />
         <!-- X | Color of the flag background after being clicked  -->
-        <color id="flag_clicked" value="#f38ba8" />
+        <color id="flag_clicked" value="$red" />
         <!-- X | Color of the flag background when clicked -->
         <color id="select_box_ruler" value="#0000ff" />
         <!-- Unused  -->
@@ -184,7 +184,7 @@
         <!-- Unused  -->
         <color id="edit_pal_face" value="#302d41" />
         <!-- X | Color of the background of the the palette lock/Edit Color(A) button -->
-        <color id="palette_entries_separator" value="#1e1e2e" />
+        <color id="palette_entries_separator" value="$base" />
         <!-- X | Color of the line that separates the colors in the color bar -->
     </colors>
     <parts>
