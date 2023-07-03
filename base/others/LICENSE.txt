@@ -6,7 +6,7 @@ Aseprite Catppuccin Mocha (Theme Creator)
  Copyright (c) 2023 SofyDev
  https://sofydev.carrd.co
 
-Catppuccin Mocha (Pallete)
+Catppuccin Mocha (palette)
  Copyright (c) 2021 Catppuccin
  https://github.com/catppuccin/catppuccin
 

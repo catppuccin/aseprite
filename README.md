@@ -44,7 +44,7 @@ WIP
 <!-- this section is optional -->
 ## 🙋 FAQ
 
--	Q: **_"When will the other pallete themes be finished"_**\
+-	Q: **_"When will the other palette themes be finished"_**\
 	A: honestly I have no idea :p
 
 ## 💝 Thanks to

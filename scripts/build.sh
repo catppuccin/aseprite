@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-mkdir ./theme
+mkdir ./.dist
 
 clear
 echo ""
 echo "Choose flavor out of -
  1. Mocha
- 2. Macchiato 
+ 2. Macchiato
  3. Frappé
  4. Latte 
 (Type the number corresponding to said pallet)
@@ -30,10 +30,11 @@ fi
 echo ""
 
 echo Building...
-cp ./base/* ./theme
-sed -f ./scripts/Pallets/$FLAVOURNAME.sed ./base/theme.xml > ./theme/theme.xml
+cp ./base/others/* ./.dist
+sed -f ./scripts/Pallets/$FLAVOURNAME.sed ./base/theme.xml > ./.disy/theme.xml
+cp ./base/sheet/sheet_$FLAVOURNAME.png ./.dist/sheet.png
 
 echo "compressing..."
-cd ./theme || exit 
+cd ./.dist || exit 
 zip -FSr ../catppuccin.aseprite-extension *
-echo "done! :3"
+echo "done!"
