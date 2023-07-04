@@ -12,22 +12,22 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MochaPreview.png"/>
+	<img src="https://github.com/sofyXI/asesprite/blob/main/assets/AllPreview.png"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-WIP
+<img src="https://github.com/sofyXI/asesprite/blob/main/assets/LattePreview.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-WIP
+<img src="https://github.com/sofyXI/asesprite/blob/main/assets/FrappePreview.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-WIP
+<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MacchiatoPreview.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
@@ -37,22 +37,21 @@ WIP
 ## Usage
 
 1. Download latest release in the releases tab
-2. Open Aseprite
-3. Double click on the newly downloaded extension
+2. Double click on the newly downloaded extension
+3. Open aseprite and go to EDIT > PREFERENCES > THEMES
 4. Should now be selectable in the themes window
 
 <!-- this section is optional -->
 ## 🙋 FAQ
 
 -	Q: **_"When will the other palette themes be finished"_**\
-	A: honestly I have no idea :p
+	A: There done! :D
 
 ## 💝 Thanks to
 
 - [Sofy](https://github.com/sofyXI)
-- [Sharkked](https://github.com/sharkked)
-- [Banana](https://github.com/BANanaD3V)
 - [Cequal](https://github.com/Cequallium)
+- [Sharkked](https://github.com/sharkked)
 
 &nbsp;
 
