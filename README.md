@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/asesprite/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/asesprite?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/asesprite/issues"><img src="https://img.shields.io/github/issues/catppuccin/asesprite?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/asesprite/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/asesprite?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/aseprite?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/issues"><img src="https://img.shields.io/github/issues/catppuccin/aseprite?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/aseprite?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
