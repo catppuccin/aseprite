@@ -43,7 +43,7 @@
 
 ## 💝 Thanks to
 
-- [Sofy](https://github.com/sofyXI)
+- [Sofy](https://github.com/sofycat)
 - [Cequal](https://github.com/Cequallium)
 - [Sharkked](https://github.com/sharkked)
 
