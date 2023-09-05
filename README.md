@@ -43,9 +43,10 @@
 
 ## 💝 Thanks to
 
-- [Sofy](https://github.com/sofycat)
-- [Cequal](https://github.com/Cequallium)
+- [Sofy](https://github.com/sofycat) (Theme Creater)
+- [Cequal](https://github.com/Cequallium) (Theme Dev + Base Theme)
 - [Sharkked](https://github.com/sharkked)
+- [Aemogie](https://github.com/aemogie)
 
 &nbsp;
 
