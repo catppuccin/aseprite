@@ -1,4 +1,4 @@
-Aseprite Default Theme (Asesprite)
+Aseprite Default Theme (Aseprite)
  Copyright (C) 2009-2017 David Capello and Ilija Melentijevic
  http://www.aseprite.org/
 

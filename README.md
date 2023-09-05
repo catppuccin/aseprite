@@ -6,32 +6,32 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/sofyXI/asesprite/stargazers"><img src="https://img.shields.io/github/stars/sofyXI/asesprite?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/sofyXI/asesprite/issues"><img src="https://img.shields.io/github/issues/sofyXI/asesprite?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/sofyXI/asesprite/contributors"><img src="https://img.shields.io/github/contributors/sofyXI/asesprite?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/aseprite?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/issues"><img src="https://img.shields.io/github/issues/catppuccin/aseprite?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/aseprite/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/aseprite?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://github.com/sofyXI/asesprite/blob/main/assets/AllPreview.png"/>
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/sofyXI/asesprite/blob/main/assets/LattePreview.png"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/sofyXI/asesprite/blob/main/assets/FrappePreview.png"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MacchiatoPreview.png"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/sofyXI/asesprite/blob/main/assets/MochaPreview.png"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
@@ -41,15 +41,9 @@
 3. Open aseprite and go to EDIT > PREFERENCES > THEMES
 4. Should now be selectable in the themes window
 
-<!-- this section is optional -->
-## 🙋 FAQ
-
--	Q: **_"When will the other palette themes be finished"_**\
-	A: There done! :D
-
 ## 💝 Thanks to
 
-- [Sofy](https://github.com/sofyXI)
+- [Sofy](https://github.com/sofycat)
 - [Cequal](https://github.com/Cequallium)
 - [Sharkked](https://github.com/sharkked)
 
