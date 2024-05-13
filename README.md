@@ -36,15 +36,15 @@
 
 ## Usage
 
-1. Download latest release in the releases tab
-2. Double click on the newly downloaded extension
-3. Open aseprite and go to EDIT > PREFERENCES > THEMES
-4. Should now be selectable in the themes window
+1. Download the extension from the [latest release](https://github.com/catppuccin/aseprite/releases/latest).
+2. Unzip the downloaded extension archive.
+3. Open Aseprite and go to **Edit** > **Preferences** > **Themes**.
+4. You can now select the unzipped directory in the themes window.
 
 ## 💝 Thanks to
 
-- [Sofy](https://github.com/sofycodes) (Theme Creater)
-- [Cequal](https://github.com/Cequallium) (Theme Dev + Base Theme)
+- [Sofy](https://github.com/sofycodes)
+- [Cequal](https://github.com/Cequallium)
 - [Sharkked](https://github.com/sharkked)
 - [Aemogie](https://github.com/aemogie)
 
