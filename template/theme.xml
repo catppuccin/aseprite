@@ -1,5 +1,5 @@
 <?xml version="2.3" encoding="utf-8" ?>
-<theme name="Catppuccin Lavender by Sofy" screenscaling="2" uiscaling="1">
+<theme name="Catppuccin {Flavour} {Accent} by Sofy" screenscaling="2" uiscaling="1">
     <authors>
         <author name="Sofy" url="https://sofydev.carrd.co/"/>
     </authors>
@@ -30,7 +30,7 @@
         <!-- X | Color of the general text -->
         <color id="disabled" value="#cdd6f4"/>
         <!-- X | Color for disabled menus and Secondary color used for example on the home tab, on file path text -->
-        <color id="face" value="#303446"/>
+        <color id="face" value="#1e1e2e"/>
         <!-- X | Color that appears on the shading bar text when no color has been selected -->
         <color id="hot_face" value="#f38ba8"/>
         <!-- X | Color that appear on the background of the warning_box when the hovered -->
@@ -40,11 +40,11 @@
         <!-- X | Color of the selected of text -->
         <color id="separator_label" value="#f38ba8"/>
         <!-- X | Color of the text that is on the same line as the separator -->
-        <color id="background" value="#303446"/>
+        <color id="background" value="#1e1e2e"/>
         <!-- X | Color of inside background on windows on the home tab and used as the shadow color for disabled menu's text -->
         <color id="textbox_text" value="#FFFFFF"/>
         <!-- X | Color of the text that appears on the tooltip -->
-        <color id="textbox_face" value="#303446"/>
+        <color id="textbox_face" value="#1e1e2e"/>
         <!-- X | Hardcoded? Used on the console window  -->
         <color id="textbox_code_face" value="#eeeeee"/>
         <!-- Unused -->
@@ -62,15 +62,15 @@
         <!-- X | Color of text on buttons when clicked them, yes even including the preview and small windows buttons-->
         <color id="check_hot_face" value="#6c7086"/>
         <!-- X | Color of the checkbox background when hovered-->
-        <color id="check_focus_face" value="#414559"/>
+        <color id="check_focus_face" value="#313244"/>
         <!-- X | Color of the checkbox background when selected aka after being clicked-->
         <color id="radio_hot_face" value="#f38ba8"/>
         <!-- X | Color of the radio/option box background when hovered-->
-        <color id="radio_focus_face" value="#414559"/>
+        <color id="radio_focus_face" value="#313244"/>
         <!-- X | Color of the radio/option box background when selected aka after being clicked-->
         <color id="menuitem_normal_text" value="#FFFFFF"/>
         <!-- X | Color of the menu text and arrows -->
-        <color id="menuitem_normal_face" value="#414559"/>
+        <color id="menuitem_normal_face" value="#313244"/>
         <!-- X | Color of the menu and arrows background -->
         <color id="menuitem_hot_text" value="#FFFFFF"/>
         <!-- X | Color of the menu text and arrows when hovered -->
@@ -80,23 +80,23 @@
         <!-- X | Color of the menu text and arrows when clicked -->
         <color id="menuitem_highlight_face" value="#6c7086"/>
         <!-- X | Color of the menu and arrows background when clicked -->
-        <color id="window_face" value="#414559"/>
+        <color id="window_face" value="#313244"/>
         <!-- X | Color of the general background and used behind separator -->
         <color id="window_titlebar_text" value="#ffffff"/>
         <!-- X | Color of the upper left text of the window, aka window title -->
         <color id="window_titlebar_face" value="#6c7086"/>
         <!-- X |  Color of the upper left text background of the window, aka window title background -->
-        <color id="editor_face" value="#303446"/>
+        <color id="editor_face" value="#1e1e2e"/>
         <!-- X | Color of the editor background, used on the colorbar background, preview window background and shading bar background -->
         <color id="editor_sprite_border" value="#000000"/>
         <!-- X | Color of the canvas border -->
         <color id="editor_sprite_bottom_border" value="#000000"/>
         <!-- X | Color of the canvas shadow  -->
-        <color id="editor_view_face" value="#303446"/>
+        <color id="editor_view_face" value="#1e1e2e"/>
         <!-- X | Color of the editor's bottom left scroll corner -->
         <color id="listitem_normal_text" value="#FFFFFF"/>
         <!-- X | Color of the listitem text  -->
-        <color id="listitem_normal_face" value="#303446"/>
+        <color id="listitem_normal_face" value="#1e1e2e"/>
         <!-- X | Color of the listitem text background  -->
         <color id="listitem_selected_text" value="#FFFFFF"/>
         <!-- X | Color of the listitem selected item text, 			used in recent_file_detail and news_detail  -->
@@ -110,7 +110,7 @@
         <!-- X | Color of the tab text -->
         <color id="tab_active_text" value="#FFFFFF"/>
         <!-- X | Color of the active tab text -->
-        <color id="tab_active_face" value="#414559"/>
+        <color id="tab_active_face" value="#313244"/>
         <!-- X | Part of the main editor Color, workspace component  -->
         <color id="popup_window_border" value="#000000"/>
         <!-- Unused  -->
@@ -120,11 +120,11 @@
         <!-- X | Color of the tooltip background -->
         <color id="filelist_even_row_text" value="#FFFFFF"/>
         <!-- X | Color of the even row text -->
-        <color id="filelist_even_row_face" value="#303446"/>
+        <color id="filelist_even_row_face" value="#1e1e2e"/>
         <!-- X | Color of the even row text background  -->
         <color id="filelist_odd_row_text" value="#FFFFFF"/>
         <!-- X | Color of the odd row text -->
-        <color id="filelist_odd_row_face" value="#303446"/>
+        <color id="filelist_odd_row_face" value="#1e1e2e"/>
         <!-- X | Color of the odd row text background  -->
         <color id="filelist_selected_row_text" value="#FFFFFF"/>
         <!-- X | Color of the selected row text -->
@@ -132,7 +132,7 @@
         <!-- X | Color of the selected row text background -->
         <color id="filelist_disabled_row_text" value="#ffc8c8"/>
         <!-- Unused -->
-        <color id="workspace" value="#414559"/>
+        <color id="workspace" value="#313244"/>
         <!-- X | Main color of the workspace -->
         <color id="workspace_text" value="#bac2de"/>
         <!-- X | Color of the workspace text -->
@@ -170,9 +170,9 @@
         <!-- Don't know what this does  -->
         <color id="status_bar_text" value="#f38ba8"/>
         <!-- X | Color of the bottom left text, use The purple here  -->
-        <color id="status_bar_face" value="#414559"/>
+        <color id="status_bar_face" value="#313244"/>
         <!-- X | Color of the bottom left text background, use the same as the Workspace/tab_active_face -->
-        <color id="flag_normal" value="#414559"/>
+        <color id="flag_normal" value="#313244"/>
         <!-- X | Color of the flag background on boot -->
         <color id="flag_active" value="#FF0000"/>
         <!-- X | Color of the flag background after being clicked  -->
@@ -184,7 +184,7 @@
         <!-- Unused  -->
         <color id="edit_pal_face" value="#302d41"/>
         <!-- X | Color of the background of the the palette lock/Edit Color(A) button -->
-        <color id="palette_entries_separator" value="#303446"/>
+        <color id="palette_entries_separator" value="#1e1e2e"/>
         <!-- X | Color of the line that separates the colors in the color bar -->
     </colors>
     <parts>

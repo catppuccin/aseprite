@@ -1,0 +1,22 @@
+{
+  "name": "catppuccin-theme-{{ flavour }}",
+  "displayName": "Catppuccin Theme {( Flavour )}",
+  "description": "Soothing pastel theme for Aseprite",
+  "version": "{{ version }}",
+  "author": { "name": "SofyCat", "email": "", "url": "" },
+  "contributors": [
+  ],
+  "publisher": "Catppuccin",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {#- default accent is Lavender as thats what is used in sprite.aseprite :3 -#}
+      { "id": "catppuccin-{{ flavour }}-lavender", "path": ".", "variant": "Lavender" },
+      { "id": "catppuccin-{{ flavour }}-{accent}", "path": "./{{ accent }}", "variant": "{{ Accent }}"  }
+         {#- repeated * number of accents-#}
+    ]
+  }
+}

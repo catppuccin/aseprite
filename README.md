@@ -41,6 +41,12 @@
 3. Open Aseprite and go to **Edit** > **Preferences** > **Themes**.
 4. You can now select the unzipped directory in the themes window.
 
+## Contributing
+ - Make your desired changes to `template/sheet.aseprite` and/or `theme.xml`. 
+ - Export `sheet.aseprite` as `sheet.svg` with a scale of 1 then commit. 
+ - Changes to `sheet.svg` trigger a build of the themes.
+
+
 ## 💝 Thanks to
 
 - [Sofy](https://github.com/sofycodes)
