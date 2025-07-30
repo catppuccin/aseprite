@@ -34,7 +34,7 @@
         <!-- X | Color that appears on the shading bar text when no color has been selected -->
         <color id="hot_face" value="#f38ba8"/>
         <!-- X | Color that appear on the background of the warning_box when the hovered -->
-        <color id="selected" value="#7287fd"/>
+        <color id="selected" value="#cba6f7"/>
         <!-- X | Color that appears on background the selected of text -->
         <color id="selected_text" value="#4C4F69"/>
         <!-- X | Color of the selected of text -->
