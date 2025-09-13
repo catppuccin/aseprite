@@ -2,8 +2,12 @@
   "name": "catppuccin-theme-latte",
   "displayName": "Catppuccin Theme Latte",
   "description": "Soothing pastel theme for Aseprite",
-  "version": "1.2",
-  "author": { "name": "SofyCat", "email": "", "url": "" },
+  "version": "1.3",
+  "author": {
+    "name": "SofyCat",
+    "email": "",
+    "url": ""
+  },
   "contributors": [
   ],
   "publisher": "Catppuccin",
@@ -13,7 +17,9 @@
   ],
   "contributes": {
     "themes": [
-      { "id": "Catppuccin Theme Latte", "path": "." }
+      { "id": "Catppuccin Theme Latte",
+        "path": "."
+      }
     ]
   }
 }

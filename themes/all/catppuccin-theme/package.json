@@ -1,0 +1,42 @@
+{
+  "name": "catppuccin-theme",
+  "displayName": "Catppuccin Theme",
+  "description": "Soothing pastel theme for Aseprite",
+  "version": "1.3",
+  "author": {
+    "name": "swap_cake",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [
+  ],
+  "publisher": "Catppuccin",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "catppuccin-latte",
+        "path": "./latte",
+        "variant": "Latte"
+      },
+      {
+        "id": "catppuccin-frappe",
+        "path": "./frappe",
+        "variant": "Frappe"
+      },
+      {
+        "id": "catppuccin-macchiato",
+        "path": "./macchiato",
+        "variant": "Macchiato"
+      },
+      {
+        "id": "catppuccin-mocha",
+        "path": "./mocha",
+        "variant": "Mocha"
+      }
+    ]
+  }
+}
