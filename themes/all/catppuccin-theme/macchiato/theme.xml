@@ -36,7 +36,7 @@
         <!-- X | Color that appear on the background of the warning_box when the hovered -->
         <color id="selected" value="#c6a0f6"/>
         <!-- X | Color that appears on background the selected of text -->
-        <color id="selected_text" value="#FFFFFF"/>
+        <color id="selected_text" value="#24273a"/>
         <!-- X | Color of the selected of text -->
         <color id="separator_label" value="#f38ba8"/>
         <!-- X | Color of the text that is on the same line as the separator -->
