@@ -47,6 +47,7 @@
 - [Cequal](https://github.com/Cequallium)
 - [Sharkked](https://github.com/sharkked)
 - [Aemogie](https://github.com/aemogie)
+- [swap-cake](https://github.com/swap-cake)
 
 &nbsp;
 
