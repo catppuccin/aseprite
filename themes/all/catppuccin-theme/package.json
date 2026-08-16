@@ -3,12 +3,9 @@
   "displayName": "Catppuccin Theme",
   "description": "Soothing pastel theme for Aseprite",
   "version": "1.3",
-  "author": {
-    "name": "swap_cake",
-    "email": "",
-    "url": ""
-  },
+  "author": { "name": "Sofy", "email": "contactsofycat@gmail.com", "url": "" },
   "contributors": [
+    { "name": "swap_cake", "email": "", "url": "" }
   ],
   "publisher": "Catppuccin",
   "license": "MIT",
@@ -25,7 +22,7 @@
       {
         "id": "catppuccin-frappe",
         "path": "./frappe",
-        "variant": "Frappe"
+        "variant": "Frappé"
       },
       {
         "id": "catppuccin-macchiato",

@@ -11,5 +11,8 @@ jobs:
   run:
     uses: catppuccin/actions/.github/workflows/whiskers-check.yml@v1
     with:
-      args: templates/theme.tera
+      args: |
+        templates/package.tera
+        templates/package-all.tera
+        templates/theme.tera
     secrets: inherit

@@ -1,9 +1,9 @@
 {
   "name": "catppuccin-theme-frappe",
-  "displayName": "Catppuccin Theme Frappe",
+  "displayName": "Catppuccin Theme Frappé",
   "description": "Soothing pastel theme for Aseprite",
   "version": "1.3",
-  "author": { "name": "SofyCat", "email": "contactsofycat@gmail.com", "url": "" },
+  "author": { "name": "Sofy", "email": "contactsofycat@gmail.com", "url": "" },
   "contributors": [
   ],
   "publisher": "Catppuccin",
@@ -13,7 +13,7 @@
   ],
   "contributes": {
     "themes": [
-      { "id": "Catppuccin Theme Frappe", "path": "." }
+      { "id": "Catppuccin Theme Frappé", "path": "." }
     ]
   }
 }
