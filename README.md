@@ -43,11 +43,12 @@
 
 ## 💝 Thanks to
 
-- [Sofy](https://github.com/sofycodes)
+- [Sofy](https://github.com/sofycat)
 - [Cequal](https://github.com/Cequallium)
 - [Sharkked](https://github.com/sharkked)
 - [Aemogie](https://github.com/aemogie)
 - [swap-cake](https://github.com/swap-cake)
+- [Scarce Koi](https://github.com/scarcekoi)
 
 &nbsp;
 
