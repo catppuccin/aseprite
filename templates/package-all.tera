@@ -1,0 +1,40 @@
+---
+whiskers:
+  version: "^2.9.0"
+  matrix:
+    - flavor
+  filename: "themes/all/catppuccin-theme/package.json"
+  hex_format: "#{{r}}{{g}}{{b}}{{z}}"
+author:
+  name: "Sofy"
+  email: "contactsofycat@gmail.com"
+contributors:
+  swap_cake:
+    name: "swap_cake"
+---
+{
+  "name": "catppuccin-theme",
+  "displayName": "Catppuccin Theme",
+  "description": "Soothing pastel theme for Aseprite",
+  "version": "1.3",
+  "author": { "name": "{{ author.name }}", "email": "{{ author.email }}", "url": "" },
+  "contributors": [
+    { "name": "{{ contributors.swap_cake.name }}", "email": "", "url": "" }
+  ],
+  "publisher": "Catppuccin",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {%- for id, flavor in flavors %}
+      {
+        "id": "catppuccin-{{ id }}",
+        "path": "./{{ id }}",
+        "variant": "{{ flavor.name }}"
+      }{% if not loop.last %},{% endif %}
+      {%- endfor %}
+    ]
+  }
+}
